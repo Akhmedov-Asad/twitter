@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e327b160.css",
+    "main.js": "/static/js/main.e60f7d14.js",
+    "static/media/kebab.png": "/static/media/kebab.b496cfbcd504899a7016.png",
+    "static/media/twitter.svg": "/static/media/twitter.5483cc3e09cf3c9c943c39607d1f9a1b.svg",
+    "static/media/Customize.svg": "/static/media/Customize.093766282ed484933866e85567eb335f.svg",
+    "index.html": "/index.html",
+    "main.e327b160.css.map": "/static/css/main.e327b160.css.map",
+    "main.e60f7d14.js.map": "/static/js/main.e60f7d14.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e327b160.css",
+    "static/js/main.e60f7d14.js"
+  ]
+}
